@@ -1,0 +1,143 @@
+
+
+.my-form input[type="submit"] {
+
+    background-color: black;
+    color: white;
+    padding: 15px 10 px;
+}
+
+.my-form input[type="text"], .my-form textarea {
+    
+    padding: 8px; 
+    width: 100%;
+
+
+}
+
+.my-form label {
+    display: block ;
+}
+
+.my-form .form-group {
+
+    padding-bottom: 15px;
+}
+
+.my-form {
+
+    padding: 20px; 
+
+}
+
+.categories li {
+
+    padding-bottom: 5px;
+    border-bottom: dotted 1px #333;
+
+}
+
+a:active {
+    color: yellow;
+}
+
+a:hover {
+
+    color:green
+}
+
+a {
+
+
+    text-decoration: none;
+color: black;
+
+
+
+}
+
+
+.categories ul {
+list-style: none;
+padding: 0;
+}
+
+.categories h1 {
+    text-align: center;
+}
+
+.categories {
+
+    border: 1px #ccc solid;
+padding: 10px;
+
+border-radius: 15px;
+
+
+}
+
+.box-2 {
+    border:  5px yellow solid;
+
+    background-color: #333;
+    color: #fff;
+
+    margin: 20px ;
+    padding: 20px;
+
+}
+
+.box-1 h1 {
+font-family: 'Times New Roman', Times, serif;
+font-weight: 800;
+font-style: italic;
+text-decoration: underline;
+
+
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.box-1 {
+    color: #fff;
+
+    background-color: #333   ;
+color: fff;
+
+border-left: 5px red solid;
+border-right: 5px red solid;
+border-top: 5px red solid;
+border-bottom: 5px red solid;
+
+padding: 20px;
+
+margin: 20px;
+
+
+}
+
+
+body {
+
+
+    background-color: #f4f4f4;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    font-weight: normal;
+
+    /* Same as above */
+    font: normal 16px Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    line-height: 2em;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
