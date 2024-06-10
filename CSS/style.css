@@ -1,4 +1,87 @@
 
+.my-list li:first-child{
+    background-color: red;
+    
+    }
+.my-list li:last-child{
+        background-color: blue;
+        
+        }
+            
+        .my-list li:nth-child(4) {
+            background-color: yellow;
+        }
+
+.fix-me {
+
+    position: fixed;
+    top: 400px;
+}
+
+.button {
+    padding: 5px 10px;
+    color: white;
+}
+
+a {
+    background-color: #333;
+    color: white;
+}
+
+.p-box h1 {
+
+    position: absolute;
+    top: 40px;
+
+    left: 400px;
+}
+
+.p-box h2 {
+    position: absolute;
+    bottom: 30px;
+    right: 600px;
+}
+
+.p-box {
+
+    position: relative;
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    margin-top: 30px;
+
+}
+
+#main-block
+{ 
+    float: left;
+    width: 70%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+#sidebar {
+    float: right;
+    width: 30%;
+    background-color: #333;
+    color: #ccc;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.clr {
+    clear: both;
+}
+
+.block {
+
+    float: left;
+    width: 33.3%;
+    border: 1px solid #ccc;
+    padding: 10px ;
+    box-sizing: border-box;
+
+}
 
 .my-form input[type="submit"] {
 
@@ -50,7 +133,7 @@ a {
 
 
     text-decoration: none;
-color: black;
+color: white;
 
 
 
@@ -137,7 +220,7 @@ body {
 
 
 h1 {
-    text-align: center;
+    /* text-align: center; */
 }
 
 
