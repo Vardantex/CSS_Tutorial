@@ -64,12 +64,16 @@ padding-top: 30px;
 
 }
 
+
+#main h1 {
+    text-shadow: 2px 1px;
+}
+
 #main {
     float: left;
 width: 70%;
 padding: 0 30px;
 box-sizing: border-box;
-
 
 }
 
